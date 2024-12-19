@@ -28,6 +28,14 @@ While the risks highlight negative effects, organizations also focus on developi
 
 A more general discussion of AI related risks with good level of global scientifc alignment can e.g. be found here: https://assets.publishing.service.gov.uk/media/6716673b96def6d27a4c9b24/international_scientific_report_on_the_safety_of_advanced_ai_interim_report.pdf
 
+## AI Benchmarks and Evaluations
+
+Frontier model providers voluntarily provide 'system cards' where risks are and performances are being assessed, e.g. GPT 4o https://arxiv.org/abs/2410.21276
+
+A resourceful article about benchmarks and methods to improve alignment are also:
+ - WildGuard https://arxiv.org/pdf/2406.18495, see citations within
+ - Agents that Matter https://arxiv.org/abs/2407.01502
+
 ## AI regulation
 
 ## Agentic AI Risk Control
