@@ -2,13 +2,43 @@
 
 We list and review aspects of risks related to AI, with the goal to define responsible Agentic AI.
 
-Agentic AI is a way to complete tasks or follows a goal in the real world using AI with increased autonomy. Tasks have various specifications and can vary in their complexity. (for a general discussion about "tasks" see e.g. https://asistdl.onlinelibrary.wiley.com/doi/pdf/10.1002/meet.14504201111)
+Agentic AI is a way to complete tasks or follows a goal by interacting with the real world using AI with increased autonomy. Tasks have various specifications and can vary in their complexity. In particular, agents use tools and can trigger material processes to complete their tasks and follow thei goals.
 
-##
+side note: (for a non-AI general discussion about "tasks" see e.g. https://asistdl.onlinelibrary.wiley.com/doi/pdf/10.1002/meet.14504201111)
+
+## Agentic AI
+
+World Economic forum
+
+
+## AI Risk and Management
+
+The voices of prominent AI pioneers have triggered a global interest to understand and reflect on AI risks, due to real and widely accepted catastrophic tail risk. 
+
+Several taxonomies exist and have been/are developed, e.g.:
+- MIT AI Risk Database: https://airisk.mit.edu
+  - based on Deepmind Weidinger et al https://dl.acm.org/doi/10.1145/3531146.3533088
+  - and Yampolskiy https://arxiv.org/abs/1511.03246
+- IBM https://www.ibm.com/docs/en/watsonx/saas?topic=ai-risk-atlas
+
+While the risks highlight negative effects, organizations also focus on developing risk governance frameworks to manage such risks: 
+- https://airc.nist.gov/AI_RMF_Knowledge_Base/AI_RMF
+
+A more general discussion of AI related risks with good level of global scientifc alignment can e.g. be found here: https://assets.publishing.service.gov.uk/media/6716673b96def6d27a4c9b24/international_scientific_report_on_the_safety_of_advanced_ai_interim_report.pdf
+
+## AI regulation
+
+## Agentic AI Risk Control
+
+
+
+## Agentic AI Operational Stability Measurement&Control
+## Agentic AI Regulatory Compliance Measurement&Control
+## Agentic AI Ethical Alignment Measurement&Control
 
 ## AI Agent Risk Quantification
 
-I'll break down AI Agent risks and provide a systematic approach to measuring and quantifying them:
+Anthropic: I'll break down AI Agent risks and provide a systematic approach to measuring and quantifying them:
 
 1. Misalignment Risks
 - **Goal Deviation**: Quantify the probability of an AI agent developing objectives that diverge from its original intended purpose
