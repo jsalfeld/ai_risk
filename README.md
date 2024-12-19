@@ -1,6 +1,10 @@
 # ai_risk
 
+We list and review aspects of risks related to AI, with the goal to define responsible Agentic AI.
 
+Agentic AI is a way to complete tasks or follows a goal in the real world using AI with increased autonomy. Tasks have various specifications and can vary in their complexity. (for a general discussion about "tasks" see e.g. https://asistdl.onlinelibrary.wiley.com/doi/pdf/10.1002/meet.14504201111)
+
+##
 
 ## AI Agent Risk Quantification
 
