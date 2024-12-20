@@ -24,9 +24,12 @@ Several taxonomies exist and have been/are developed, e.g.:
 - IBM https://www.ibm.com/docs/en/watsonx/saas?topic=ai-risk-atlas
 
 While the risks highlight negative effects, organizations also focus on developing risk governance frameworks to manage such risks: 
-- https://airc.nist.gov/AI_RMF_Knowledge_Base/AI_RMF
+- NIST https://airc.nist.gov/AI_RMF_Knowledge_Base/AI_RMF
+- Focus Group https://e-space.mmu.ac.uk/635454/
 
 A more general discussion of AI related risks with good level of global scientifc alignment can e.g. be found here: https://assets.publishing.service.gov.uk/media/6716673b96def6d27a4c9b24/international_scientific_report_on_the_safety_of_advanced_ai_interim_report.pdf
+
+AVs to AI Agents (autonomy): https://openreview.net/pdf?id=EH6SmoChx9
 
 ## AI Benchmarks and Evaluations
 
@@ -126,3 +129,6 @@ Practical Implementation Suggestions:
 - Create industry-standard risk measurement protocols
 
 Would you like me to elaborate on any specific risk category or discuss practical implementation strategies for measuring these risks?
+
+## Other
+For agentic AI to succeed, the models must have SMART (specific, measurable, achievable, relevant, time-bound) goals and sub-goals and know how to measure them. They must have the right contextual information — why are these goals important to the company, how do they drive revenues, etc. Finally, as managers, we need to establish feedback loops to adjust the models as we learn more about their performance.
