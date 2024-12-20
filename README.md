@@ -32,7 +32,7 @@ A more general discussion of AI related risks with good level of global scientif
 
 AVs to AI Agents (autonomy): https://openreview.net/pdf?id=EH6SmoChx9
 
-https://arxiv.org/pdf/2410.01808
+IEEE https://arxiv.org/pdf/2410.09985](https://arxiv.org/pdf/2410.01808
 
 ## AI Benchmarks and Evaluations
 
@@ -43,6 +43,10 @@ A resourceful article about benchmarks and methods to improve alignment are also
  - Agents that Matter https://arxiv.org/abs/2407.01502
 
 ## AI regulation
+
+- EU https://artificialintelligenceact.eu
+- US https://www.whitehouse.gov/ostp/ai-bill-of-rights/
+- US Federal example https://leginfo.legislature.ca.gov/faces/billNavClient.xhtml?bill_id=202320240SB1047
 
 ## Agentic AI Risk Control
 
