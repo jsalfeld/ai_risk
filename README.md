@@ -12,6 +12,7 @@ World Economic forum https://www.weforum.org/publications/navigating-the-ai-fron
 
 Global index on responsible AI: https://www.global-index.ai
 
+https://arxiv.org/pdf/2410.09985
 
 ## AI Risk and Management
 
