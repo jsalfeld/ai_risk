@@ -32,6 +32,8 @@ A more general discussion of AI related risks with good level of global scientif
 
 AVs to AI Agents (autonomy): https://openreview.net/pdf?id=EH6SmoChx9
 
+https://arxiv.org/pdf/2410.01808
+
 ## AI Benchmarks and Evaluations
 
 Frontier model providers voluntarily provide 'system cards' where risks are and performances are being assessed, e.g. GPT 4o https://arxiv.org/abs/2410.21276
