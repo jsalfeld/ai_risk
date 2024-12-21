@@ -14,6 +14,8 @@ Global index on responsible AI: https://www.global-index.ai
 
 https://arxiv.org/pdf/2410.09985
 
+https://arxiv.org/pdf/2408.11820
+
 ## AI Risk and Management
 
 The voices of prominent AI pioneers have triggered a global interest to understand and reflect on AI risks, due to real and widely accepted catastrophic tail risk. 
